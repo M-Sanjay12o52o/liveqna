@@ -1,0 +1,8 @@
+installed packages that i need to go through:
+
+npm i clsx
+npm i class-variance-authority
+npm i tailwind-merge
+npm i date-fns
+npm i next-auth
+npm i @radix-ui/react-toast
